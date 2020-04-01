@@ -1,6 +1,6 @@
 # Funtility Subdomain
 
-The purpose of this template is to provide guidelines for creating a base subdomain project as well as an easy to implement project starter.
+The purpose of this template is to provide an easy to implement project starter.
 
 ## Getting Started
 
@@ -8,13 +8,13 @@ Download the zip, extract the contents, and begin building your site out from th
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/funtility/FuntilitySubdomain/tags). 
 
 ## Authors
 
 * **Nathan Hering** - [LinkedIn](https://www.linkedin.com/in/nathanhering/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/funtility/FuntilitySubdomain/contributors) who participated in this project.
 
 ## License
 
